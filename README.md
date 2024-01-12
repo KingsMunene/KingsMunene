@@ -1,7 +1,7 @@
 # 
 
 # 💫 Holla 🙋🏿‍♂️:
-😎 Am Kings Kariuki, an Android Developer in Kenya.<br>🥹Am passionate about creating quality applications.<br>🚀I like exploring new technology and participating in tech communities.<br>🤖I love writing technical articles on Android and Kotlin topics.
+😎 Am Kings Kariuki, an Android Developer in Kenya.<br>🥹 Am passionate about creating quality applications.<br>🚀I like exploring new technology and participating in tech communities.<br>🤖I love writing technical articles on Android and Kotlin topics.
 
 
 ## 🌐 Socials:
